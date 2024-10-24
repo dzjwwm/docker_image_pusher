@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
 #安卓模拟器
 #https://github.com/budtmo/docker-android
 budtmo/docker-android:emulator_9.0
@@ -12,5 +13,12 @@ budtmo/docker-android:emulator_11.0
 budtmo/docker-android:emulator_12.0
 budtmo/docker-android:emulator_13.0
 budtmo/docker-android:emulator_14.0
+
 #python代理mitmproxy/mitmproxy
 mitmproxy/mitmproxy
+
+#mysql
+mysql:5.7
+
+#ubuntu
+ubuntu:22.04
