@@ -12,5 +12,5 @@ budtmo/docker-android:emulator_11.0
 budtmo/docker-android:emulator_12.0
 budtmo/docker-android:emulator_13.0
 budtmo/docker-android:emulator_14.0
-#python代理Proxy.py
-abhinavsingh/proxy.py:latest
+#python代理mitmproxy/mitmproxy
+mitmproxy/mitmproxy
