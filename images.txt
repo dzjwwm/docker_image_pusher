@@ -22,3 +22,6 @@ mysql:5.7
 
 #ubuntu
 ubuntu:22.04
+
+# 爬取抖音
+evil0ctal/douyin_tiktok_download_api:latest
