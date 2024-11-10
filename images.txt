@@ -25,3 +25,6 @@ ubuntu:22.04
 
 # 爬取抖音
 evil0ctal/douyin_tiktok_download_api:latest
+
+# 自动化容器
+selenium/standalone-chromium:latest
