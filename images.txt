@@ -28,3 +28,4 @@ evil0ctal/douyin_tiktok_download_api:latest
 
 # 自动化容器
 selenium/standalone-chromium:latest
+selenium/standalone-chrome:4.26.0-20241101
