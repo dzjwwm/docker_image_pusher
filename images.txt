@@ -32,3 +32,9 @@ selenium/standalone-chrome:4.26.0-20241101
 
 # python最新版本
 python
+
+# conda/miniconda3
+conda/miniconda3
+
+# mongodb
+bitnami/mongodb
