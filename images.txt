@@ -38,3 +38,5 @@ conda/miniconda3
 
 # mongodb
 bitnami/mongodb
+
+milvusdb/milvus:latest
