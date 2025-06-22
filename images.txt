@@ -41,4 +41,4 @@ bitnami/mongodb
 
 milvusdb/milvus:latest
 
-anythingllm:latest
+anythinglm/anythinglm:latest
