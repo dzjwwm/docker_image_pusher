@@ -40,3 +40,5 @@ conda/miniconda3
 bitnami/mongodb
 
 milvusdb/milvus:latest
+
+mintplexlabs/anythingllm
