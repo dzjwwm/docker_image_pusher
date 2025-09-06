@@ -42,3 +42,5 @@ bitnami/mongodb
 milvusdb/milvus:latest
 
 anythinglm/anythinglm:latest
+
+mintplexlabs/anythingllm:latest
